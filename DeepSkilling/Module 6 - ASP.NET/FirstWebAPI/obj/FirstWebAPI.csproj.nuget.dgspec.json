@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj": {}
+    "C:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj": {
+    "C:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj",
         "projectName": "FirstWebAPI",
-        "projectPath": "c:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj",
+        "projectPath": "C:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\FirstWebAPI.csproj",
         "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\varun\\OneDrive\\Desktop\\Cognizant\\DeepSkilling\\Module 6 - ASP.NET\\FirstWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
